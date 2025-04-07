@@ -5,8 +5,6 @@
 
 This project is a **Push Button Power Controller** circuit, which toggles the power output using a push button. It's commonly used in microcontroller-based systems or low-power devices.
 
-![PCB Preview](image/pcb_preview.png)
-
 **Main Features:**
 - Toggle power ON/OFF with a single push button
 - Debounced signal handling
@@ -37,6 +35,19 @@ This project is a **Push Button Power Controller** circuit, which toggles the po
 
 ---
 
+## 🖼️ Previews
+
+### 🔧 Schematic
+![Schematic](./Image/Schematic.png)
+
+### 📐 PCB Layout
+![Layout](./Image/Layout.png)
+
+### 🧱 3D View
+![3D View](./Image/3DView.png)
+
+---
+
 ## 📦 How to Use
 
 1. Open the `AltiumProject/` folder in **Altium Designer** to view or modify the design.
@@ -47,7 +58,7 @@ This project is a **Push Button Power Controller** circuit, which toggles the po
 
 ## 🧠 License
 
-This project is open for educational and non-commercial use. Please give credit if you use or modify the design.
+This project is open for educational and non-commercial use.
 
 ---
 
