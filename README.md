@@ -5,7 +5,7 @@
 
 This project is a **Push Button Power Controller** circuit, which toggles the power output using a push button. It's commonly used in microcontroller-based systems or low-power devices.
 
-![PCB Preview](images/pcb_preview.png)
+![PCB Preview](image/pcb_preview.png)
 
 **Main Features:**
 - Toggle power ON/OFF with a single push button
