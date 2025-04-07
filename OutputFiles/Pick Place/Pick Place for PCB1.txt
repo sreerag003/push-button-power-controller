@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+F:\altium learn\dummy_dummy\Project Outputs for Free Documents\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07-04-25
+Time:       08:16
+Revision:   cfe5fd250c02b6be9267dbb52375016795761cdf
+Variant:    No variations
+Units used: mil
+
+Designator Comment                           Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                 
+U2         TPS62162DSGR                      TopLayer DSG0008A_V             474.885       190.000       0        "Buck Step Down Regulator with 3 to 17 V Input and 3.3 V Output, -40 to 85 degC, 8-Pin WSON (DSG), Green (RoHS & no Sb/Br)" 
+U1         MAX16150AUT+T                     TopLayer FP-U6-1-MFG            231.995       211.654       0        "IC SUPERVISOR 1 CHANNEL SOT23-6"                                                                                           
+R6         "Resistor 10K  +/-1 % 0402 63 mW" TopLayer RESC0402(1005)_L       258.249       471.378       180      "Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"                                                             
+R5         "Resistor 10K  +/-1 % 0402 63 mW" TopLayer RESC0402(1005)_L       642.716       330.000       180      "Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"                                                             
+R4         "Resistor 10K  +/-1 % 0402 63 mW" TopLayer RESC0402(1005)_L       642.765       287.325       180      "Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"                                                             
+R3         "Resistor 10K  +/-1 % 0402 63 mW" TopLayer RESC0402(1005)_L       375.000       285.000       90       "Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"                                                             
+R2         "Resistor 10K  +/-1 % 0402 63 mW" TopLayer RESC0402(1005)_L       258.249       431.378       0        "Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"                                                             
+R1         "Resistor 10K  +/-1 % 0402 63 mW" TopLayer RESC0402(1005)_L       258.249       311.378       0        "Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"                                                             
+L1         LQM2HPN2R2MG0L                    TopLayer INDC2520X100X60NL20T20 685.000       205.000       0        "Chip Inductor, 2.2 uH, +/- 20%, -55 to 125 degC, 1008 (2520 Metric), RoHS, Tape and Reel"                                  
+C2         "Capacitor 10µF +/-20% 25V 0805"  TopLayer CAPC0805(2012)145_L    805.000       125.197       270      "Chip Capacitor, 10µF +/-20%, 25V, 0805, Thickness 1.45 mm"                                                                 
+C1         "Capacitor 10µF +/-20% 25V 0805"  TopLayer CAPC0805(2012)145_L    283.013       371.378       0        "Chip Capacitor, 10µF +/-20%, 25V, 0805, Thickness 1.45 mm"                                                                 
